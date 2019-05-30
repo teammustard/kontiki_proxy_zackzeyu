@@ -1,0 +1,22 @@
+{
+  "name": "kontiki_proxy_zackzeyu",
+  "version": "1.0.0",
+  "description": "Zack's proxy repository for Kontiki",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teammustard/kontiki_proxy_zackzeyu.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/teammustard/kontiki_proxy_zackzeyu/issues"
+  },
+  "homepage": "https://github.com/teammustard/kontiki_proxy_zackzeyu#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
